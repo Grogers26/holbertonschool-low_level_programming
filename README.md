@@ -1,5 +1,5 @@
-#!/usr/bin/env bash
+#!/bin/bash
 file="$"
-git add "."
+git add "$"
 git commit -m "$"
 git push 
