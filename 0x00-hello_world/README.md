@@ -2,4 +2,4 @@
 file="$"
 git add .
 git commit -m "$"
-git push 
+git push let me know if this works 
