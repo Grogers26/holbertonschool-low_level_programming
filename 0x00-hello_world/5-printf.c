@@ -1,9 +1,4 @@
 #!/bin/bash
-/*
- * File: 5-printf.c
- * Auth: George Rogers
- */
-
 #include <stdio.h>
 
 /**

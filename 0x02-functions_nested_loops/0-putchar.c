@@ -1,6 +1,4 @@
-#!/bin/bash
 #include "main.h"
-
 /**
  * main - Function that prints the string "_putchar"
  *
@@ -8,13 +6,13 @@
  */
 int main(void)
 {
-	char string[] = "_putchar";
-	int i;
+int pp[9] = { '_', 'p', 'u', 't', 'c', 'h', 'a', 'r', '\n' };
+int i = 0;
+while (i < 9)
+{
+	_putchar(pp[i]);
+	i++;
+}
 
-	for (i = 0; string[i] != '\0'; i++)
-	{
-		_putchar(string[i]);
-	}
-	_putchar('\n');
 	return (0);
 }

@@ -1,20 +1,13 @@
 #!/bin/bash
-/*
- * File: 4-puts.c
- * Auth: George Rogers <6148@holbertonschool.com>
- */
-
-#include <stdio.h>
-
 /**
- * main - Prints "Programming is like building a multilingual
- *                puzzle, followed by a new line.
- *
- * Return: Always 0.
- */
+*main - prints a sentence using the puts command
+*Return: main returns 0
+*/
+#include <stdio.h>
+#include <string.h>
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-
-	return (0);
+char name[] = "\"Programming is like building a multilingual puzzle";
+puts(name);
+return (0);
 }
