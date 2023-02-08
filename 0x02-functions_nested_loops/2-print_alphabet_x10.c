@@ -1,20 +1,22 @@
-#!/bin/bash
-
-#include "main.h"
-
+#include "holberton.h"
 /**
- * print_alphabet_x10 - function that prints the aplhabet
+ * print_alphabet_x10 - a function that prints 10 times the alphabet
  *
+ * Return: x10 a-z
  */
 void print_alphabet_x10(void)
 {
-	int i;
-	char al;
+	int n, co;
 
-	for (i = 0; i < 10; i++)
+	co = 0;
+
+	while (co < 10)
 	{
-		for (al = 'a'; al <= 'z'; al++)
-			_putchar(al);
+		for (n = 'a'; n <= 'z'; n++)
+		{
+			_putchar(n);
+		}
+		co++;
 		_putchar('\n');
 	}
 }
