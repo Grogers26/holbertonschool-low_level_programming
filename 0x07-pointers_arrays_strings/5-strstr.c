@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 char *_strstr(char *haystack, char *needle)
 {
 	int a = 0, b = 0;
