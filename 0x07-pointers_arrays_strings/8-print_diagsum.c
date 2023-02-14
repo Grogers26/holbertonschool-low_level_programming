@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 #include <stdio.h>
 void print_diagsums(int *a, int size)
 {
