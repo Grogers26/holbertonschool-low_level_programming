@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 char *_strchr(char *s, char c)
 {
 	int a = 0, b;
