@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int a;
