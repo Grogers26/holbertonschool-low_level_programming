@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 char *_strchr(char *s, char c)
 {
 	int a = 0, b;
