@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 char *_strpbrk(char *s, char *accept)
 {
   int a = 0, b;
