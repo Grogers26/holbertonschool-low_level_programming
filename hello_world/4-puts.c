@@ -1,4 +1,4 @@
-#!/bin/bash
+#include <stdio.h>
 /*
 *
 *main - prints a sentence using the puts command
