@@ -1,0 +1,630 @@
+[33mcommit bac5fe0af124a1fbf5fb2476e88a325a31724ce2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: grogers26@outlook.com <grogers26@outlook.comgrogers26wqgit config --global user.email grogers26@outlook.com>
+Date:   Wed May 24 13:56:11 2023 -0700
+
+    getting started
+
+[33mcommit ada76fe95e10b2daa07a73b8ef5e74066638a0d8[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Tue Feb 14 09:13:42 2023 -0800
+
+    Test by zak
+
+[33mcommit 2505ad93169046157d174808a0fdac40a687311d[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Tue Feb 14 09:05:41 2023 -0800
+
+    commit file
+
+[33mcommit c3d2e522d11e2bc81ebae02e44b5e27e17c4bac1[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Tue Feb 14 08:52:59 2023 -0800
+
+    holberton.h
+
+[33mcommit 5b0dd32cb74c163d4206d16ce22953f6be0ed6b1[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 20:16:49 2023 -0800
+
+    holberton.h
+
+[33mcommit febcf0bb2bc8e0164063c855c48a16991ec6335e[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 20:08:54 2023 -0800
+
+    0-strcat.c
+
+[33mcommit da4152202c43adbbcfebfa1033b05bec51d26a39[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 19:33:25 2023 -0800
+
+    1-strncat.c
+
+[33mcommit cffc3cb661c587b8fd99f9bc3d302b8aa41c687b[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:44:16 2023 -0800
+
+    8-print_diagsum.c
+
+[33mcommit 8c92706d8501c84e8c42421143e9dc4fb07a6ee8[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:42:16 2023 -0800
+
+    7-print_chessboard.c
+
+[33mcommit 59a61c9cf9a045688d7e160b6be192ecf75b64d7[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:39:34 2023 -0800
+
+    5-strstr.c
+
+[33mcommit 54e29c8d1c5d016f06607e3f60aea37bf75d6022[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:37:54 2023 -0800
+
+    4-strpbrk.c
+
+[33mcommit d24bf8ed42411d660671a8466b6d639ce5df9e5b[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:36:56 2023 -0800
+
+    3-strspn.c
+
+[33mcommit 7bfd2cf2c7b6da88c317ccfe2a1d3841f3079016[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:35:10 2023 -0800
+
+    2-strchr.c
+
+[33mcommit ccea5166ed0ecc6533ce448bae2708cc0b37b3b8[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:33:39 2023 -0800
+
+    1-memcpy.c
+
+[33mcommit 3949d40e43929b54f9df97a04365add471f6451e[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:32:50 2023 -0800
+
+    0-memset.c
+
+[33mcommit 02c06bf7b69b2491bfb8deabda4b3e5af232daca[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:31:48 2023 -0800
+
+    main.c
+
+[33mcommit 660b783580c56f3cc4f94a1c1c9a4836377ab4bb[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:25:37 2023 -0800
+
+    8-print_diagsum.c
+
+[33mcommit 96a25bec95df15610352d3c595a84623e09b7191[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:24:28 2023 -0800
+
+    7-print_chessboard.c
+
+[33mcommit cb46aec8e2bfaf98c7d5d8f23d2731c9008c9f8b[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:22:52 2023 -0800
+
+    5-strstr.c
+
+[33mcommit d1c31b99f1afeac1f965cb433cf22f2dc2465388[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:22:04 2023 -0800
+
+    4-strpbrk.c
+
+[33mcommit f449755c2c46435520e24d5845dfaec6a2938c66[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:21:07 2023 -0800
+
+    3-strspn.c
+
+[33mcommit 804249d9ec7f3ba65ff7b0b8573d24681e5761ed[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:19:57 2023 -0800
+
+    2-strchr.c
+
+[33mcommit 8fafee7aba54c370d384a21650bc94cfd4cb5a26[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:18:34 2023 -0800
+
+    1-memcpy.c
+
+[33mcommit 0374796a3d9b71ac573f17a743c2767b69482252[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:17:35 2023 -0800
+
+    0-memset.c
+
+[33mcommit a8e2f1c1f66f18d37c94ea6307091ab717f33b5f[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:13:02 2023 -0800
+
+    main.h
+
+[33mcommit eb846518247a3db7ad503a0e9f48c52f34e097fa[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:08:49 2023 -0800
+
+    8-print_diagsum.c
+
+[33mcommit 2843f5c20d90aa5c77bba7d0fcf5d113acf935d8[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 18:01:53 2023 -0800
+
+    7-print_chessboard.c
+
+[33mcommit 432c552a2ee5d7cb9b75988cb18d6b5e35fbcf26[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 17:55:46 2023 -0800
+
+    5-strstr.c
+
+[33mcommit 365fdb4751f741343580bc985f03163451ceeed9[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 17:41:46 2023 -0800
+
+    4-strpbrk.c
+
+[33mcommit 07756dd423e2de0d5f1a43dd1ef582fada02faf9[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 17:34:50 2023 -0800
+
+    3-strspn.c
+
+[33mcommit 9fb166a3ff91da719f78e0b8de06a24c39d5377d[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 17:28:33 2023 -0800
+
+    2-strchr.c
+
+[33mcommit c69668c82c41a336fefef540d1e80fa8d3f6c62e[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 17:24:43 2023 -0800
+
+    1-memcpy.c
+
+[33mcommit 78f7f41219337e638517b2a88bb3d964cd5ac4cc[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 17:17:39 2023 -0800
+
+    0-memset.c
+
+[33mcommit 90ebaf01f09113e2a66535e0acf9b346a6c65d12[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Mon Feb 13 16:55:25 2023 -0800
+
+    READMD.md
+
+[33mcommit 55057e8b783f948c5bea9af215a47dd4982a7cf3[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 14:31:38 2023 -0800
+
+    .
+
+[33mcommit 9e09b9ffc963553dd37a0dcb537efc9ca2ce75a9[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 13:24:16 2023 -0800
+
+    holberton.h
+
+[33mcommit aaf57f1c05ed2b066388aa9399dbe0c4b0ba640c[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 12:56:36 2023 -0800
+
+    6-cap_string.c
+
+[33mcommit f81379768b78b7dcfe1464cf36ff44bd0a2f364b[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 12:15:22 2023 -0800
+
+    5-string_toupper.c
+
+[33mcommit f1b8b9d419b611ce2d312e95fbf776238e9acff5[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 12:13:43 2023 -0800
+
+    4-rev_array.c
+
+[33mcommit 3b42e9a2892172577af810a25ca0cebe5a14f090[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 11:59:58 2023 -0800
+
+    3-strcmp.c
+
+[33mcommit 83e03c046f7b7c3a2a62d8dba3ea41f09a69bc23[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 11:27:01 2023 -0800
+
+    2-strncpy.c
+
+[33mcommit 53751a05d2f96b1217fc4d4df307fd0defff0383[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 11:23:37 2023 -0800
+
+    1-strncat.c
+
+[33mcommit 82dcf630fa9f8fca74f13c5c5c2757a67152e3b1[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 11:14:58 2023 -0800
+
+    0-strcat.c
+
+[33mcommit 5b646818b3696da30c33fae3203592e6b12aefb6[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:27:09 2023 -0800
+
+    main.c
+
+[33mcommit 972416be98a9e18bcedd213e593269903f501aaf[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:22:07 2023 -0800
+
+    holberton.h
+
+[33mcommit 8cce8cde8af20b67cb59054716ed5e79f5fa6f8d[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:18:00 2023 -0800
+
+    7-leet.c
+
+[33mcommit 572bd8050a1492b7a82c4406bd7a1791248e4f32[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:17:02 2023 -0800
+
+    6-cap_string.c
+
+[33mcommit 643f4588e7561bb5d9a62c7c4204f046c5e3ac47[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:16:30 2023 -0800
+
+    5-string_toupper.c
+
+[33mcommit cd682c9750332987ab7e42958e98470e128b563a[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:15:17 2023 -0800
+
+    4-rev_array.c
+
+[33mcommit 53ba51fa384b6bcbc22184430ca3ed4892b4d3d8[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:14:57 2023 -0800
+
+    3-strcmp.c
+
+[33mcommit 433f443811045625e709e9c227fc7ad0483eec7b[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:13:55 2023 -0800
+
+    2-strncpy.c
+
+[33mcommit 42aa5ec7b88aac95d346d2e076fb190f4932500a[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:11:59 2023 -0800
+
+    1-strncat.c
+
+[33mcommit 57e06e10692061ebf65a76adec7ef2403f82ce7b[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Fri Feb 10 10:11:30 2023 -0800
+
+    0-strcat.c
+
+[33mcommit bec1568c493df5be9c3dac1a158c7141ec36e1b1[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 12:19:40 2023 -0800
+
+    2-print_alphabet_x10.c
+
+[33mcommit c0bbaa6a2f33ce5fe99417ff8f4122a93684a723[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 12:15:33 2023 -0800
+
+    2-print_alphabet_x10.c
+
+[33mcommit 31cfdf96c7e2809505f71355818e184305c0ff03[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 11:06:30 2023 -0800
+
+    0-putchar.c
+
+[33mcommit 662abb3954fc2ccfe48c121519fc0282d201f436[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 11:04:24 2023 -0800
+
+    0-putchar.c
+
+[33mcommit 1f7f626c1f9ce3ddf3d00da64756299feddcf3b2[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 10:56:17 2023 -0800
+
+    7-print_tebahpla.c
+
+[33mcommit b92ac4e883b702b93e82ed5e52c514ab361bf6a2[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 10:52:44 2023 -0800
+
+    7-print_tebapla.c
+
+[33mcommit 61aa0b12fae8f27eeacee97621fcb35c52c472dc[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 10:42:14 2023 -0800
+
+    4-puts.c
+
+[33mcommit f3ee050b69e374c283f16ba971389bcd5741624f[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 10:38:42 2023 -0800
+
+    5-printf.c
+
+[33mcommit e6fc21a6f43ef60979680f9cd02d8243a64c00b3[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 10:36:36 2023 -0800
+
+    6-size.c
+
+[33mcommit cf6d44045f5bdb970dd4c1aa13da85901f5d931c[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Wed Feb 8 10:32:50 2023 -0800
+
+    0-preprocessor
+
+[33mcommit 97d83765bc1a3f2e22f0f4530aa87b2778dc01a7[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Tue Feb 7 12:09:21 2023 -0800
+
+    0-putchar.c
+
+[33mcommit b5d3f57c1feb90ad3a6e43837aa8c53e6082c6db[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Tue Feb 7 10:33:43 2023 -0800
+
+    10-print_triangle.c
+
+[33mcommit 07b84c4c0cd6cbc71046e7aa1ee83e1b621362e4[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Tue Feb 7 10:29:09 2023 -0800
+
+    file
+
+[33mcommit 9148d707b2174a5f3fb88466b95fbba8f80b5736[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:42:12 2023 -0800
+
+    9-print_comb.c
+
+[33mcommit 45048bdc927d3548b14909ad7b51eda18e630813[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:40:21 2023 -0800
+
+    8-print_base16.c
+
+[33mcommit 8424bedf283290c94d79ca8bc09b4911548438ac[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:39:26 2023 -0800
+
+    7-print_tebapla.c
+
+[33mcommit 0bca88ff1c9f6f6c792db6ac23a36852503552a3[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:38:35 2023 -0800
+
+    6-print_numberz.c
+
+[33mcommit 5f27ae89dff81887a0c86baceb92f533acb4960f[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:37:38 2023 -0800
+
+    5-print_numbers.c
+
+[33mcommit 09e1b239a231fd5685aed290d5c96f6ef3bec679[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:36:57 2023 -0800
+
+    4-print_alphabt.c
+
+[33mcommit 4a3a0271612ac656d6d1da4792f3cace066e3467[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:28:51 2023 -0800
+
+    3-print_alphabets.c
+
+[33mcommit 1818af92436300440d7971382d1a6e88d8a2a126[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:27:23 2023 -0800
+
+    2-print_alphabet.c
+
+[33mcommit 8cfd40a4fd16f76a54343178b5c09ed43cc33930[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:22:35 2023 -0800
+
+    1-last_digit.c
+
+[33mcommit e4808bbe84d5574085d0576c211a091afe2484e8[m
+Author: George Rogers <grogers26@outlook.com>
+Date:   Sat Feb 4 15:21:46 2023 -0800
+
+    0-positive_or_negative.c
+
+[33mcommit ce9686bf6f571a6d20bedd243589f001066db06c[m
+Author: George Rogers <115730272+Grogers26@users.noreply.github.com>
+Date:   Thu Feb 2 15:30:17 2023 -0600
+
+    Update README.md
+
+[33mcommit 300d4921b4dcb4f8838664893ded705711508e83[m
+Author: George Rogers <115730272+Grogers26@users.noreply.github.com>
+Date:   Thu Feb 2 15:14:31 2023 -0600
+
+    Update README.md
+
+[33mcommit 928f3ffcc29a1e504736ec93f15428f4d313280c[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 11:55:39 2023 -0800
+
+    $
+
+[33mcommit 1578914fa9e181778f67a94803896f36cbd3d202[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 11:50:47 2023 -0800
+
+    $
+
+[33mcommit 244f53ef2db29ec7e1d2c2a365e1af2c5b504684[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 11:30:37 2023 -0800
+
+    $
+
+[33mcommit 85ed67d5ade5902cfde42d0b6bf4bf99c8e1a721[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 11:23:24 2023 -0800
+
+    $
+
+[33mcommit 0ee547aefc28872d0fd98f8a240b670129293048[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:41:08 2023 -0800
+
+    $
+
+[33mcommit c34570212e422261ffb1376ba931c4e84ececf41[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:23:27 2023 -0800
+
+    9-print_comb.c
+
+[33mcommit 01ec23a363284f06fcffdb053b17ba3bd6746d19[m
+Merge: 6fc907c 038691a
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:20:56 2023 -0800
+
+    Merge branch 'main' of https://github.com/Grogers26/holbertonschool-low_level_programming into main
+
+[33mcommit 6fc907c99f793b2e45b170b891e6c774cbc5c0dd[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:20:32 2023 -0800
+
+    README.md
+
+[33mcommit 038691a3dd985404457bca8d1d88074526de0f94[m
+Author: Grogers26 <115730272+Grogers26@users.noreply.github.com>
+Date:   Mon Jan 30 12:14:49 2023 -0600
+
+    Update README.md
+
+[33mcommit cf44313a09506529681dfc4eab16a2f3af7f02b5[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:11:19 2023 -0800
+
+    9-print_comb.c
+
+[33mcommit 4ca61023577c9f96ffff933340c1092412101028[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:10:44 2023 -0800
+
+    7-print_tebapla.c
+
+[33mcommit e851059b5e710e8b9063451d599b143cda0c1f14[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:10:14 2023 -0800
+
+    6-print_numberz.c
+
+[33mcommit bd427cd1d0160cd534c1e6f1a1d9ffd5a6e7f5b3[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:09:49 2023 -0800
+
+    5-print_numbers.c
+
+[33mcommit 816c29c46552e821ebc56a9b885afc4cded53899[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:09:29 2023 -0800
+
+    4-print_alphabt.c
+
+[33mcommit 8647b275f6ba63d23757cbbd6e30240ce1f3a871[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:07:33 2023 -0800
+
+    4-print_alphabt.c
+
+[33mcommit 2cc3aa83537319a7c0a405f8195c7b1e77a0fc87[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:06:47 2023 -0800
+
+    2-print_alphabet.c
+
+[33mcommit 3c9c15d00868ac34424bc7c48259570126d92c67[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:05:44 2023 -0800
+
+    1-last_digit.c
+
+[33mcommit 1b4a138305de835c6d70caebac2970f31ed7fc69[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 10:05:02 2023 -0800
+
+    0-positive_or_negative.c
+
+[33mcommit 42286307352b59db7c4d09c6783ce31b8d0115fe[m
+Author: Grogers26 <115730272+Grogers26@users.noreply.github.com>
+Date:   Mon Jan 30 12:01:11 2023 -0600
+
+    Delete Betty
+
+[33mcommit c0be60e91b7f2599c60c7ea90392897dc491f505[m
+Author: Grogers26 <115730272+Grogers26@users.noreply.github.com>
+Date:   Mon Jan 30 12:00:26 2023 -0600
+
+    Delete Betty~
+
+[33mcommit 24384dc16df5dc911673957919383fe34d99d2cb[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 08:19:02 2023 -0800
+
+    $
+
+[33mcommit f0e279315fca6432899d11a8f31da0b195d3b330[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 08:14:38 2023 -0800
+
+    $
+
+[33mcommit c44fc8924a81ab3a3a5e09c8797d39520ddced74[m
+Author: grogers26 <grogers26@outlook.com>
+Date:   Mon Jan 30 07:14:36 2023 -0800
+
+    $
+
+[33mcommit d88655dcc21087cbce1eaaa666cbc65cb46e2cb5[m
+Author: george rogers <grogers26@outlook.com>
+Date:   Thu Jan 26 10:51:01 2023 -0800
+
+    $
+
+[33mcommit b5efe2afb710987e12a75cb1eac3a46c8332aee8[m
+Author: george rogers <grogers26@outlook.com>
+Date:   Thu Jan 26 10:38:47 2023 -0800
+
+    1-complier
+
+[33mcommit 27e8859b6a88cc2b0cf88226b2bbb93f736977d7[m
+Author: george rogers <grogers26@outlook.com>
+Date:   Thu Jan 26 10:23:25 2023 -0800
+
+    $
+
+[33mcommit 553aab2ce155bc3b404c56b1689ec75165936be7[m
+Author: george rogers <grogers26@outlook.com>
+Date:   Thu Jan 26 10:17:08 2023 -0800
+
+    first commit
