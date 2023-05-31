@@ -1,4 +1,4 @@
-#include "main.c"
+#include <main.c>
 /**
  * print_alphabet - function that prints the aplhabet
  *
