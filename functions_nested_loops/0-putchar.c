@@ -1,4 +1,4 @@
-#include "main.h"
+#include<stdio.h>
 /**
  * main - Function that prints the string "_putchar"
  *
@@ -8,10 +8,10 @@ int main(void)
 {
 int pp[9] = { '_', 'p', 'u', 't', 'c', 'h', 'a', 'r', '\n' };
 int i = 0;
-while (i < 9)
+ while (i < 9);
 {
-	_putchar(pp[i]);
-	i++;
+  printf(_putchar(pp[i]);
+	(i++);
 }
 
 	return (0);
