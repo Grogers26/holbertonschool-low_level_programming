@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<main.c>
 /**
  * print_alphabet - function that prints the aplhabet
  *
