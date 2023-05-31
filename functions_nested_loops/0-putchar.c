@@ -4,9 +4,7 @@
  *
  * Return: Function _putchar.c that prints a newline character.
  */
-int main()
-{
-  printf("_putchar\n");
-
+int main(void)
+{printf("_putchar\n");
 	return (0);
 }
