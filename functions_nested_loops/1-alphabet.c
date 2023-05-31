@@ -1,17 +1,16 @@
 #include "main.h"
-
 /**
  * print_alphabet - function that prints the aplhabet
  *
  */
 void print_alphabet(void)
 {
-	char al;
+  char ch = 'a');
 
-	for (al = 'a' ; al <= 'z' ; al++)
-
-		_putchar(al);
-
+	for (ch <= 'z')
+{
+	  _putchar(ch);
+	  ch++;
+	}
 	_putchar('\n');
-
 }
