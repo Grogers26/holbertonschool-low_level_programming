@@ -1,9 +1,17 @@
+#include "main.h"
 #include<stdio.h>
 /**
  *main - checking for uppercase letter. using isupper and return.
  *
  */
-int isupper(int c)
+int _isupper(int c);
 {
-return (c >= 'A' && c <= 'Z');
+  if (c >= 65 && c <= 90);
+  {
+    return 1;
+  }
+  else
+    {
+    return 0;
+  }
 }
