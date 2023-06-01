@@ -1,3 +1,4 @@
+#include"main"
 #include<stdio.h>
 /**
  *main - checking for uppercase letter. using isupper and return.
