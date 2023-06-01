@@ -1,4 +1,3 @@
-#include<stdio.h>
 #include"main.h"
 /**
 *main - print numbers (0 - 9) while only using _putchar twice in the code
