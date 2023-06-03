@@ -1,14 +1,15 @@
 #include <stdio.h>
-#include "main.c"
+#include "main.h"
 /**
  * print_alphabet - function that prints the aplhabet
  *
  */
 void print_alphabet(void)
 {
-  char (ch) >= 'a'; ch <= 'z'; ch++)
+int i;
+for (i = 97; i <= 122; i++)
 {
-_putchar (ch);
+_putchar (i);
 }
 _putchar ('\n');
 }
