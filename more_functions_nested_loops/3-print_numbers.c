@@ -10,7 +10,7 @@ void  print_number(void)
   int i;
 for (i = 48; i < 158; i++)
 {
-_putchar("%\n" + i);
+_putchar(i);
 }
 _putchar('\n');
 }
