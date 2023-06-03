@@ -5,11 +5,20 @@
 *
 *Return: always (void)
 */
-int  main(void)
+void  print_number(void)
 {
   for(int i = 0; i < 10; i++)
     {
-_putchar('0' + i);
+      _putchar("%\n" + i);
     }
-  _putchar('\n');
+  {
+    int main(void)
+    {
+      for (int i = 0; i < 10; i++)
+	{
+	_putchar("%d\n", i);
+      }
+      return 0;
     }
+  }
+}
