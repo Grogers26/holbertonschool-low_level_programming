@@ -4,7 +4,7 @@
 *
 *Return: always (void)
 */
-void print_number(void)
+void print_numbers(void)
 {
   int ch;
 for (ch = 48; ch <= 158; ch++)
