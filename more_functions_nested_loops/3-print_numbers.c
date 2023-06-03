@@ -7,14 +7,10 @@
 */
 void  print_number(void)
 {
-  int = i;
-for (i = 0; i < 10; i++)
+  int i;
+for (i = 48; i < 158; i++)
 {
 _putchar("%\n" + i);
 }
-{
-int main(void)
-_putchar("%d\n", i);
-}
-return (0);
+_putchar('\n');
 }
