@@ -7,18 +7,18 @@
 */
 void  print_number(void)
 {
-  for(int i = 0; i < 10; i++)
-    {
-      _putchar("%\n" + i);
-    }
-  {
-    int main(void)
-    {
-      for (int i = 0; i < 10; i++)
-	{
-	_putchar("%d\n", i);
-      }
-      return 0;
-    }
-  }
+for (int i = 0; i < 10; i++)
+{
+_putchar("%\n" + i);
+}
+{
+int main(void)
+{
+for (int i = 0; i < 10; i++)
+{
+_putchar("%d\n", i);
+}
+return (0);
+}
+}
 }
