@@ -15,4 +15,9 @@ void print_line(int n)
     {
       _putchar('_');
     }
+  int main()
+  {
+    print_line(10);
+    return 0;
+  }
 }
