@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*main - print numbers 0 - 9 while only using _putchar twice in the code
-*
-*Return: always (void)
+* main - print numbers 0 - 9 while only using _putchar twice in the code
+* @num: number between 0 - 9
+* Return: no return.
 */
 void print_numbers(void)
 {
