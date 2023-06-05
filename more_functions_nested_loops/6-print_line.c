@@ -5,7 +5,7 @@
  *
  * return: void
  */
-void print_line(int n)
+void print_lines(int n)
 {
   int i;
   if (n <= 0)
@@ -16,10 +16,6 @@ void print_line(int n)
   for (i = 0; i < 10; i++)
     {
       _putchar('_');
+      return;
     }
-  int main(void)
-  {
-    print_line(10);
-    return 0;
-  }
 }
