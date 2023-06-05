@@ -4,7 +4,7 @@
 * @c: printing lines 
 * return: void
 */
-void print_line(int n)
+void print_line(int i)
 {
 	int i;
 	for (i = 0; i <= 10; i++) 

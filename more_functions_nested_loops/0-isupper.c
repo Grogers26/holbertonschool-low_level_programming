@@ -2,7 +2,8 @@
 #include<stdio.h>
 /**
  *_isupper - checking for uppercase letter. using isupper and return.
- *
+ * @c: checker
+ * Return: no return
  */
 int _isupper(int c)
 {
