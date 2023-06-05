@@ -4,10 +4,11 @@
 * @c: printing lines 
 * return: void
 */
-void print_line(int i)
+void print_line(int n)
 {
 	int i;
-	for (i = 0; i <= 10; i++) 
+
+	for (i = 0; i <= n; i++) 
 	{
 		_putchar(95);
 	}
