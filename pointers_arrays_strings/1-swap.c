@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * swag_int - swap the values of two integers. 
+ * swap_int - swap the values of two integers. 
  * @a: first integer
  * @b: second integer.
  * Return: no return.
