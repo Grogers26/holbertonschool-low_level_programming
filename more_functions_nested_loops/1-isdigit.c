@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include "main.h"
 /**
- * description - isdigit - input numbers 0 - 9
+ * function - _isdigit - input numbers 0 - 9
  * Description: define if a character is a number
  * @c: character
  * Return: 1 yes 0 no
