@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * fizzbuzz - counting to 100
- * @num: counting
+ * @function main: counting
  * return: 0
  */
 int main(void)
@@ -9,20 +9,20 @@ int main(void)
 	int i;
 	
 	i = 1;
-	
+
 	for (i = 1; i <= 100; i++)
 {
 	if ((i % 3 == 0) && (i % 5 == 0))
 	{
-		printf("FizzBuzz");
+		printf(" FizzBuzz");
 	}
-	if (i % 3 == 0) 
+	if (i % 3 == 0)
 	{
-		printf("Fizz");
+		printf(" Fizz");
 	}
 	if (i % 5 == 0)
 	{
-		printf("Buzz");
+		printf(" Buzz");
 	}
 	else
 	{
