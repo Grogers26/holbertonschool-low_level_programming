@@ -7,21 +7,22 @@
 int main(void)
 {
 	int i;
+	i = 1;
 	for (i = 1; i <= 100; i++)
 {
-	if (i % 3 == 0)  (i % 5 == 0);
+	if ((i % 3 == 0) && (i % 5 == 0));
 	{
 		printf("FizzBuzz ");
 	}
-	else (i % 3 == 0) 
+	if (i % 3 == 0) 
 	{
 		printf("Fizz ");
 	}
-	else (i % 5 == 0)
+	if (i % 5 == 0)
 	{
 		printf("Buzz ");
 	}
-	else 
+	else
 	{
 		printf("%d ", i);
 	}
