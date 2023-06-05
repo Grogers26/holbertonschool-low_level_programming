@@ -4,7 +4,7 @@
  * different sizes of squares.
  * Return: no return
  */
-void print_squares(int size)
+void print_square(int size)
 {
 	int i, j;
 	for (i = 0; i < size; i++)
