@@ -7,7 +7,7 @@
  * @src: the source value
  * REturn: char value
  */
-char *strncpy(char *dest, char *src, int n)
+char *_strncpy(char *dest, char *src, int n)
 {
 	int a = 0, b = 0;
 
@@ -23,7 +23,7 @@ char *strncpy(char *dest, char *src, int n)
 
 		while (a < n)
 		{
-			dest[a] = "\0';
+			dest[a] = '\0';
 			a++;
 		}
 		return (dest);
