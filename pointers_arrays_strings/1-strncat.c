@@ -2,14 +2,14 @@
 #include <stdio.h>
 /**
  * _strncat - concatentes two strings,
- * @dest: location 
+ * @dest: location
  * @src: sources.
  * @n: amount of bytes used from sources
  * Return: the point is to destination
  */
 char *_strncat(char *dest, char *src, int n)
 {
-	int dlen = 0, j = 0; 
+	int dlen = 0, j = 0;
 
 	while (dest[dlen])
 	{
@@ -23,6 +23,6 @@ char *_strncat(char *dest, char *src, int n)
 	j++;
 	}
 			dest[dlen + n + 1] = '\0';
-			
+
 			return (dest);
 }
