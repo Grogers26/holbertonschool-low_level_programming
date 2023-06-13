@@ -1,5 +1,11 @@
-#include "main.c"
+#include "main.h"
 #include <stdio.h>
+/**
+ * print_diagsums - print the sum of the two
+ * @a: input pointer.
+ * @size: size of the matrix
+ * Return: no return
+ */
 void print_diagsums(int *a, int size)
 {
 	int b, sum1 = 0, sum2 = 0;
