@@ -9,23 +9,14 @@
 char *cap_string(char *s)
 {
 	int a = 0, i;
-	int cspc = 13;
-	char spc[] = {32, '\t', '\n', 44, ';', 46, '!', '?', '"', '(', ')', '{', '}'};
+	int spc[] = {32, '\t', '\n', 44, ';', 46, '!', '?', '"', '(', ')', '{', '}'};
 
-        while (s[a])
-        {
-                i = 0;
-
-                while (i < cspc)
-                {
-                        if ((a == 0 || s[a - 1] == spc[i]) && (s[a] >= 97 && s[a] <= 122))
-                                s[a] -= 32;
-
-                        i++;
-                }
-
-                a++;
-        }
-
-        return (0);
-}
+	if (*s + count) >= 97 && *(s + count) <= 122)
+		*( + count) = *(s + count) - 32;
+	count++;
+	while (*(s + count) != '\0')
+	{
+		for (i = 0; i < 13; i++)
+		{
+			if (*(s + count) == int_ word[i])
+			{

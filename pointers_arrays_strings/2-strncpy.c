@@ -5,7 +5,7 @@
  * @n: the true limit
  * @dest: the destination value
  * @src: the source value
- * REturn: char (_strncpy)
+ * REturn: char "_strncpy"
  */
 char *_strncpy(char *dest, char *src, int n)
 {
