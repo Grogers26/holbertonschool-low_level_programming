@@ -2,8 +2,7 @@
 #include <stdio.h>
 /**
  * factorial - a function that return the factorial of a given number
- * 
- * Return: (n)
+ * Return: parameters 'n'
 */
 int factorial(int n)
 {
