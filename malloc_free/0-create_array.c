@@ -5,12 +5,12 @@
  * create_array - create an array of chars.
  * @size: size of array
  * @c: storagedchar
- * Return: pointers of the arrays of chars. 
+ * Return: pointers of the arrays of chars.
  */
 char *create_array(unsigned int size, char c)
 {
 	char *cr;
-	unsigned int i; 
+	unsigned int i;
 
 	if (size == 0)
 		return (NULL);
