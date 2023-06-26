@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
-*malloc_checked - allocates memory. if malloc fails, status value is eqaul to 98.
+*malloc_checked - allocates memory.if malloc fails, status value is eqaul to 98
 *@b: amount of bytes.
 *return: pointer to the allocated memory.
 */
