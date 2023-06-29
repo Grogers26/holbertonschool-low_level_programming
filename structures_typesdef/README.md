@@ -1,2 +1,5 @@
-who let the dogs out !!!!!!
-
+#!/bin/bash
+file="$"
+git add "$"
+git commit -m "$"
+git push
