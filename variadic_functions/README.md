@@ -1,6 +1,6 @@
 #!/bin/bash
-file=""
+file="$"
 git add .
-git commit -m ""
+git commit -m "$"
 git push
 
